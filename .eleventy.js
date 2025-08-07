@@ -5,7 +5,8 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('*.png'); // Copia iconos PNG
 	eleventyConfig.addPassthroughCopy('images'); // Copia imágenes
 	eleventyConfig.ignores.add('CLAUDE.md'); // o el archivo que quieras ignorar
-    eleventyConfig.addGlobalData('layout', 'layout.njk');
+	eleventyConfig.ignores.add('README.md'); // o el archivo que quieras ignorar
+	eleventyConfig.addGlobalData('layout', 'layout.njk');
 
 	return {
 		dir: {
