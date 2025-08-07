@@ -7,7 +7,7 @@ description: Descubre todas las casetas de la Feria de Agosto 2025 en Antequera.
 
 La Feria de Agosto de Antequera cuenta con casetas distribuidas en tres zonas principales de la ciudad, cada una con su ambiente característico y propuesta gastronómica única.
 
-## 🏛️ Centro
+## <i class="bi bi-building-fill"></i> Centro
 
 Las casetas del centro histórico de Antequera ofrecen un ambiente tradicional en el corazón de la ciudad.
 
@@ -19,7 +19,7 @@ Las casetas del centro histórico de Antequera ofrecen un ambiente tradicional e
 
 ---
 
-## 🌳 Paseo Real
+## <i class="bi bi-tree-fill"></i> Paseo Real
 
 El Paseo Real acoge casetas con un ambiente más tranquilo y familiar, ideal para disfrutar en familia.
 
@@ -31,7 +31,7 @@ El Paseo Real acoge casetas con un ambiente más tranquilo y familiar, ideal par
 
 ---
 
-## 🎪 Recinto Ferial
+## <i class="bi bi-balloon-fill"></i> Recinto Ferial
 
 El Recinto Ferial es el corazón de la fiesta, donde se concentra la mayor actividad festiva.
 
@@ -43,7 +43,7 @@ El Recinto Ferial es el corazón de la fiesta, donde se concentra la mayor activ
 
 ---
 
-## 📍 Información General
+## <i class="bi bi-info-circle-fill"></i> Información General
 
 - **Horarios generales:** Consultar con cada caseta
 - **Transporte:** Servicio especial de autobuses durante la feria

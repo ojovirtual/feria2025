@@ -2,7 +2,7 @@
 title: Tren Turístico
 ---
 
-### 🛤️ Horario del Tren Turístico
+### <i class="bi bi-train-front-fill"></i> Horario del Tren Turístico
 
 - **Miércoles 21 de agosto**: de 20:00 a 2:00 h  
 - **Jueves 22, viernes 23 y sábado 24**: de 20:00 a 4:00 h  

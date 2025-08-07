@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">  
   <!-- SEO Meta Tags -->
-  <title>concursos</title>
+  <title>Concursos</title>
   <meta name="description" content="Feria de Agosto 2025 en Antequera del 20 al 24 de agosto. Programa completo, casetas, conciertos, toros, concursos y servicios. La gran fiesta del verano antequerano." />
   <meta name="keywords" content="Feria de Agosto, Antequera, 2025, casetas, toros, conciertos, programa, concursos, Málaga, Andalucía, fiesta, tradición" />
   <meta name="author" content="Q de Qultura" />
@@ -18,7 +18,7 @@
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://feria.antequera.click/concursos/" />
-  <meta property="og:title" content="concursos" />
+  <meta property="og:title" content="Concursos" />
   <meta property="og:description" content="Feria de Agosto 2025 en Antequera del 20 al 24 de agosto. Programa completo, casetas, conciertos, toros, concursos y servicios." />
   <meta property="og:image" content="https://feria.antequera.click/images/feria-og.jpg" />
   <meta property="og:image:width" content="1200" />
@@ -29,7 +29,7 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:url" content="https://feria.antequera.click/concursos/" />
-  <meta name="twitter:title" content="concursos" />
+  <meta name="twitter:title" content="Concursos" />
   <meta name="twitter:description" content="Del 20 al 24 de agosto, Antequera celebra su gran Feria. Programa, casetas, toros y mucho más." />
   <meta name="twitter:image" content="https://feria.antequera.click/images/feria-twitter.jpg" />
   <meta name="twitter:creator" content="@QDeQultura" />
@@ -91,8 +91,7 @@
     <header class="hero-header">
       <div class="hero-content">
         <div class="logo-area">
-          <h1><a href="/" class="logo-link">FERIA DE AGOSTO</a></h1>
-          <div class="year-badge">2025</div>
+          <h1><a href="/" class="logo-link">REAL FERIA DE AGOSTO 2025</a></h1>          
         </div>
         <p class="fechas">
           <span class="location">Antequera</span>
@@ -143,6 +142,7 @@
       <div class="content-wrapper">
         <h2>Concursos</h2>
 <h3>Viernes 22 de agosto</h3>
+<p><img src="https://storage.googleapis.com/qultura-ficheros/eventos/211d911a-24b7-43a9-b224-499bf44bdf88.jpg" alt="Cartel concurso Nacional de Porra"></p>
 <p><strong>X Concurso Nacional de Porra Antequerana</strong></p>
 <ul>
 <li>Paseo Real, Antequera</li>
@@ -153,6 +153,7 @@
 <hr>
 <hr>
 <h3>Sábado 23 de agosto</h3>
+<p><img src="https://storage.googleapis.com/qultura-ficheros/eventos/9e9c621a-b821-4036-b51c-0683d1c01bcb.jpg" alt="Cartel Concurso de Trajes de Flamenca y Corto"></p>
 <p><strong>X Concurso de Trajes de Flamenca y de Corto</strong></p>
 <ul>
 <li>Paseo Real, Antequera</li>
@@ -167,8 +168,8 @@
     <footer class="site-footer">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>Feria de Agosto 2025</h3>
-          <p>La cita más importante del verano antequerano</p>
+          <h3>Real Feria de Agosto 2025</h3>
+          <p><a href="/legal/">Aviso Legal</a></p>
         </div>
         <div class="footer-section">
           <p class="copyright"><a href="https://whatsapp.com/channel/0029VadyMAMJuyAKnL83rd0i" target="_blank">Antequera, con Q de Qultura</a></p>
@@ -177,6 +178,11 @@
       </div>
     </footer>
   </div>
+
+  <!-- Scroll to Top Button -->
+  <button id="scrollToTop" class="scroll-to-top" aria-label="Subir al inicio">
+    <i class="bi bi-arrow-up-circle-fill"></i>
+  </button>
 
   <script>
     // Mobile menu toggle
@@ -222,6 +228,26 @@
           item.classList.remove('active');
         });
       }
+    });
+
+    // Scroll to Top functionality
+    const scrollToTopBtn = document.getElementById('scrollToTop');
+    
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', function() {
+      if (window.pageYOffset > 300) {
+        scrollToTopBtn.classList.add('show');
+      } else {
+        scrollToTopBtn.classList.remove('show');
+      }
+    });
+
+    // Smooth scroll to top
+    scrollToTopBtn.addEventListener('click', function() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
     });
   </script>
 </body>

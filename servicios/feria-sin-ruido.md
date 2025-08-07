@@ -2,7 +2,7 @@
 title: Feria sin ruido
 ---
 
-### 🌙 Feria sin ruido
+### <i class="bi bi-volume-mute-fill"></i> Feria sin ruido
 
 Para mejorar la accesibilidad de la Feria:
 

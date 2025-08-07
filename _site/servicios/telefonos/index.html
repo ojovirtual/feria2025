@@ -91,8 +91,7 @@
     <header class="hero-header">
       <div class="hero-content">
         <div class="logo-area">
-          <h1><a href="/" class="logo-link">FERIA DE AGOSTO</a></h1>
-          <div class="year-badge">2025</div>
+          <h1><a href="/" class="logo-link">REAL FERIA DE AGOSTO 2025</a></h1>          
         </div>
         <p class="fechas">
           <span class="location">Antequera</span>
@@ -141,35 +140,35 @@
 
     <main class="main-content">
       <div class="content-wrapper">
-        <h3>☎️ Teléfonos útiles durante la feria</h3>
-<p><strong>Emergencias generales</strong>: 112<br>
-<strong>Policía Nacional</strong>: 091<br>
-<strong>Policía Local</strong>: 092</p>
+        <h3><i class="bi bi-telephone-fill"></i> Teléfonos útiles durante la feria</h3>
+<p><strong>Emergencias generales</strong>: <a href="tel:112">112</a><br>
+<strong>Policía Nacional</strong>: <a href="tel:091">091</a><br>
+<strong>Policía Local</strong>: <a href="tel:092">092</a></p>
 <ul>
-<li>952 708 103</li>
-<li>952 708 104</li>
+<li><a href="tel:952708103">952 708 103</a></li>
+<li><a href="tel:952708104">952 708 104</a></li>
 </ul>
-<p><strong>Guardia Civil</strong>: 952 840 357<br>
-<strong>Protección Civil</strong>: 679 588 901</p>
+<p><strong>Guardia Civil</strong>: <a href="tel:952840357">952 840 357</a><br>
+<strong>Protección Civil</strong>: <a href="tel:679588901">679 588 901</a></p>
 <p><strong>Taxis</strong>:</p>
 <ul>
 <li>Taxi Radio Antequera:
 <ul>
-<li>952 845 555</li>
-<li>687 597 500</li>
+<li><a href="tel:952845555">952 845 555</a></li>
+<li><a href="tel:687597500">687 597 500</a></li>
 </ul>
 </li>
 <li>Taxi Antequera Los Verdes:
 <ul>
-<li>951 700 228</li>
-<li>600 955 845</li>
+<li><a href="tel:951700228">951 700 228</a></li>
+<li><a href="tel:600955845">600 955 845</a></li>
 </ul>
 </li>
 </ul>
 <p><strong>Turismo</strong> (Oficina Municipal):</p>
 <ul>
-<li>952 702 505</li>
-<li>952 708 305</li>
+<li><a href="tel:952702505">952 702 505</a></li>
+<li><a href="tel:952708305">952 708 305</a></li>
 </ul>
 
       </div>
@@ -178,8 +177,8 @@
     <footer class="site-footer">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>Feria de Agosto 2025</h3>
-          <p>La cita más importante del verano antequerano</p>
+          <h3>Real Feria de Agosto 2025</h3>
+          <p><a href="/legal/">Aviso Legal</a></p>
         </div>
         <div class="footer-section">
           <p class="copyright"><a href="https://whatsapp.com/channel/0029VadyMAMJuyAKnL83rd0i" target="_blank">Antequera, con Q de Qultura</a></p>
@@ -188,6 +187,11 @@
       </div>
     </footer>
   </div>
+
+  <!-- Scroll to Top Button -->
+  <button id="scrollToTop" class="scroll-to-top" aria-label="Subir al inicio">
+    <i class="bi bi-arrow-up-circle-fill"></i>
+  </button>
 
   <script>
     // Mobile menu toggle
@@ -233,6 +237,26 @@
           item.classList.remove('active');
         });
       }
+    });
+
+    // Scroll to Top functionality
+    const scrollToTopBtn = document.getElementById('scrollToTop');
+    
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', function() {
+      if (window.pageYOffset > 300) {
+        scrollToTopBtn.classList.add('show');
+      } else {
+        scrollToTopBtn.classList.remove('show');
+      }
+    });
+
+    // Smooth scroll to top
+    scrollToTopBtn.addEventListener('click', function() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
     });
   </script>
 </body>

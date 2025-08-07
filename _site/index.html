@@ -91,8 +91,7 @@
     <header class="hero-header">
       <div class="hero-content">
         <div class="logo-area">
-          <h1><a href="/" class="logo-link">FERIA DE AGOSTO</a></h1>
-          <div class="year-badge">2025</div>
+          <h1><a href="/" class="logo-link">REAL FERIA DE AGOSTO 2025</a></h1>          
         </div>
         <p class="fechas">
           <span class="location">Antequera</span>
@@ -141,8 +140,9 @@
 
     <main class="main-content">
       <div class="content-wrapper">
-        <h2>¡Bienvenidos a la Feria de Agosto 2025!</h2>
-<p>Del 20 al 24 de agosto, Antequera se llena de alegría, música y tradición.</p>
+        <h2>Programa de la Real Feria de Agosto de Antequera 2025</h2>
+<p><img src="https://storage.googleapis.com/qultura-ficheros/eventos/14085915-e046-4b8e-aa03-1d42fd464c61.jpg" alt="Cartel de la Real Feria de Agosto 2025 de Antequera"></p>
+<p>Del 20 al 24 de agosto de 2025</p>
 
       </div>
     </main>
@@ -150,8 +150,8 @@
     <footer class="site-footer">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>Feria de Agosto 2025</h3>
-          <p>La cita más importante del verano antequerano</p>
+          <h3>Real Feria de Agosto 2025</h3>
+          <p><a href="/legal/">Aviso Legal</a></p>
         </div>
         <div class="footer-section">
           <p class="copyright"><a href="https://whatsapp.com/channel/0029VadyMAMJuyAKnL83rd0i" target="_blank">Antequera, con Q de Qultura</a></p>
@@ -160,6 +160,11 @@
       </div>
     </footer>
   </div>
+
+  <!-- Scroll to Top Button -->
+  <button id="scrollToTop" class="scroll-to-top" aria-label="Subir al inicio">
+    <i class="bi bi-arrow-up-circle-fill"></i>
+  </button>
 
   <script>
     // Mobile menu toggle
@@ -205,6 +210,26 @@
           item.classList.remove('active');
         });
       }
+    });
+
+    // Scroll to Top functionality
+    const scrollToTopBtn = document.getElementById('scrollToTop');
+    
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', function() {
+      if (window.pageYOffset > 300) {
+        scrollToTopBtn.classList.add('show');
+      } else {
+        scrollToTopBtn.classList.remove('show');
+      }
+    });
+
+    // Smooth scroll to top
+    scrollToTopBtn.addEventListener('click', function() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
     });
   </script>
 </body>

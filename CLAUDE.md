@@ -68,7 +68,3 @@ The Eleventy configuration (`.eleventy.js`) is set up with:
 ## Development Environment
 
 - El sistema de desarrollo es Windows, tenlo en cuenta para los comandos
-
-## Development Workflow
-
-- Siempre que hagas cambios, ejecuta "npx eleventy" para refrescar

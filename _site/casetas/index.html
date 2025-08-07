@@ -91,8 +91,7 @@
     <header class="hero-header">
       <div class="hero-content">
         <div class="logo-area">
-          <h1><a href="/" class="logo-link">FERIA DE AGOSTO</a></h1>
-          <div class="year-badge">2025</div>
+          <h1><a href="/" class="logo-link">REAL FERIA DE AGOSTO 2025</a></h1>          
         </div>
         <p class="fechas">
           <span class="location">Antequera</span>
@@ -143,28 +142,28 @@
       <div class="content-wrapper">
         <h1>Casetas de la Feria 2025</h1>
 <p>La Feria de Agosto de Antequera cuenta con casetas distribuidas en tres zonas principales de la ciudad, cada una con su ambiente característico y propuesta gastronómica única.</p>
-<h2>🏛️ Centro</h2>
+<h2><i class="bi bi-building-fill"></i> Centro</h2>
 <p>Las casetas del centro histórico de Antequera ofrecen un ambiente tradicional en el corazón de la ciudad.</p>
 <p><strong>Ubicación:</strong> Casco histórico de Antequera<br>
 <strong>Ambiente:</strong> Tradicional y familiar<br>
 <strong>Horarios:</strong> Consultar con cada caseta</p>
 <p><em>Contenido en preparación...</em></p>
 <hr>
-<h2>🌳 Paseo Real</h2>
+<h2><i class="bi bi-tree-fill"></i> Paseo Real</h2>
 <p>El Paseo Real acoge casetas con un ambiente más tranquilo y familiar, ideal para disfrutar en familia.</p>
 <p><strong>Ubicación:</strong> Paseo Real<br>
 <strong>Ambiente:</strong> Familiar y relajado<br>
 <strong>Acceso:</strong> Fácil aparcamiento</p>
 <p><em>Contenido en preparación...</em></p>
 <hr>
-<h2>🎪 Recinto Ferial</h2>
+<h2><i class="bi bi-balloon-fill"></i> Recinto Ferial</h2>
 <p>El Recinto Ferial es el corazón de la fiesta, donde se concentra la mayor actividad festiva.</p>
 <p><strong>Ubicación:</strong> Recinto Ferial Municipal<br>
 <strong>Ambiente:</strong> Festivo y animado<br>
 <strong>Atracciones:</strong> Cercano a las atracciones de feria</p>
 <p><em>Contenido en preparación...</em></p>
 <hr>
-<h2>📍 Información General</h2>
+<h2><i class="bi bi-info-circle-fill"></i> Información General</h2>
 <ul>
 <li><strong>Horarios generales:</strong> Consultar con cada caseta</li>
 <li><strong>Transporte:</strong> Servicio especial de autobuses durante la feria</li>
@@ -179,8 +178,8 @@
     <footer class="site-footer">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>Feria de Agosto 2025</h3>
-          <p>La cita más importante del verano antequerano</p>
+          <h3>Real Feria de Agosto 2025</h3>
+          <p><a href="/legal/">Aviso Legal</a></p>
         </div>
         <div class="footer-section">
           <p class="copyright"><a href="https://whatsapp.com/channel/0029VadyMAMJuyAKnL83rd0i" target="_blank">Antequera, con Q de Qultura</a></p>
@@ -189,6 +188,11 @@
       </div>
     </footer>
   </div>
+
+  <!-- Scroll to Top Button -->
+  <button id="scrollToTop" class="scroll-to-top" aria-label="Subir al inicio">
+    <i class="bi bi-arrow-up-circle-fill"></i>
+  </button>
 
   <script>
     // Mobile menu toggle
@@ -234,6 +238,26 @@
           item.classList.remove('active');
         });
       }
+    });
+
+    // Scroll to Top functionality
+    const scrollToTopBtn = document.getElementById('scrollToTop');
+    
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', function() {
+      if (window.pageYOffset > 300) {
+        scrollToTopBtn.classList.add('show');
+      } else {
+        scrollToTopBtn.classList.remove('show');
+      }
+    });
+
+    // Smooth scroll to top
+    scrollToTopBtn.addEventListener('click', function() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
     });
   </script>
 </body>
