@@ -64,3 +64,11 @@ The Eleventy configuration (`.eleventy.js`) is set up with:
 ## Important Notes
 
 - Este sitio está hecho con eleventy, no toques la carpeta _site
+
+## Development Environment
+
+- El sistema de desarrollo es Windows, tenlo en cuenta para los comandos
+
+## Development Workflow
+
+- Siempre que hagas cambios, ejecuta "npx eleventy" para refrescar

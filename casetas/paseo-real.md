@@ -1,3 +1,0 @@
-# Paseo Real
-
-Contenido en preparación...

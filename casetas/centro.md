@@ -1,3 +1,0 @@
-# Centro
-
-Contenido en preparación...

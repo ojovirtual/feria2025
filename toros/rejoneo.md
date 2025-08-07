@@ -1,3 +1,0 @@
-# Rejoneo
-
-Contenido en preparación...

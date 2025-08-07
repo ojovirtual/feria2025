@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Rajdhani', sans-serif;
+  font-family: 'Lato', sans-serif;
   line-height: 1.6;
   background: linear-gradient(135deg, #8B1A1A 0%, #D4AF37 50%, #8B1A1A 100%);
   min-height: 100vh;
@@ -395,6 +395,10 @@ body {
   color: #FFD700;
   margin-bottom: 0.5rem;
 }
+.footer-section a{
+    color: #FFD700;
+    text-decoration: none;
+}
 
 .copyright {
   font-weight: bold;
@@ -521,4 +525,14 @@ body {
   .nav-container {
     padding: 0 1rem;
   }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li {
+    margin-left: 1rem;
+    list-style-type: disclosure-closed;
 }
