@@ -1,3 +1,5 @@
+const pluginSitemap = require('@quasibit/eleventy-plugin-sitemap');
+
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('css'); // Copia tu CSS al output
 	eleventyConfig.addPassthroughCopy('site.webmanifest'); // Copia el manifest
@@ -7,6 +9,11 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.ignores.add('CLAUDE.md'); // o el archivo que quieras ignorar
 	eleventyConfig.ignores.add('README.md'); // o el archivo que quieras ignorar
 	eleventyConfig.addGlobalData('layout', 'layout.njk');
+	eleventyConfig.addPlugin(pluginSitemap, {
+		sitemap: {
+			hostname: 'https://feria.antequera.click',
+		},
+	});
 
 	return {
 		dir: {
