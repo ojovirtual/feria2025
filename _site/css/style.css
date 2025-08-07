@@ -55,7 +55,7 @@ body {
 }
 
 .logo-link {
-  font-family: 'Archivo Black', sans-serif;
+  font-family: 'Dancing Script', cursive;
   font-size: clamp(1.8rem, 6vw, 3rem);
   text-decoration: none;
   color: #FFD700;
@@ -97,8 +97,8 @@ body {
 }
 
 .location {
-  font-family: 'Bebas Neue', cursive;
-  font-size: 1.6rem;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
   color: #FFD700;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
@@ -663,4 +663,8 @@ li {
 .logo-link::before,
 .logo-link::after {
   display: none !important;
+}
+
+.icono-doble{
+    font-size: 2em;
 }
