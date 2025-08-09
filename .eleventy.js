@@ -5,7 +5,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('site.webmanifest'); // Copia el manifest
 	eleventyConfig.addPassthroughCopy('*.ico'); // Copia favicons
 	eleventyConfig.addPassthroughCopy('*.png'); // Copia iconos PNG
-	eleventyConfig.addPassthroughCopy('images'); // Copia imágenes
+        eleventyConfig.addPassthroughCopy('images'); // Copia imágenes
+        eleventyConfig.addPassthroughCopy('robots.txt'); // Copia robots.txt
+        eleventyConfig.addPassthroughCopy('sitemap.xml'); // Copia sitemap
 	eleventyConfig.ignores.add('CLAUDE.md'); // o el archivo que quieras ignorar
 	eleventyConfig.ignores.add('README.md'); // o el archivo que quieras ignorar
 	eleventyConfig.addGlobalData('layout', 'layout.njk');
