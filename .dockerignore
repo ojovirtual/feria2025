@@ -9,15 +9,6 @@ README.md
 CLAUDE.md
 
 # Source files (we only need the built _site)
-*.md
-!legal.md
-_includes/
-programa/
-casetas/
-concursos/
-servicios/
-toros/
-css/
 
 # IDE and editor files
 .vscode/
