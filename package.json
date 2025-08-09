@@ -1,15 +1,13 @@
 {
   "name": "feria2025",
   "version": "1.0.0",
-  "description": "",
   "main": ".eleventy.js",
+  "type": "commonjs",
   "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@quasibit/eleventy-plugin-sitemap": "^2.2.0"
