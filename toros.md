@@ -38,9 +38,3 @@ description: Programa completo de los festejos taurinos de la Feria de Agosto 20
 - Consultar precios y abonos disponibles
 
 ---
-
-## <i class="bi bi-info-square"></i> Información Práctica
-
-- **<i class="bi bi-car-front"></i> Aparcamiento:** Zonas habilitadas cerca de la plaza
-- **<i class="bi bi-universal-access"></i> Accesibilidad:** La plaza cuenta con accesos adaptados
-- **<i class="bi bi-telephone"></i> Información:** Contactar con la organización para consultas
