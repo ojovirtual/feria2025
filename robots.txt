@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://feria.antequera.click/sitemap.xml
