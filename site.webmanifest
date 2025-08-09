@@ -4,7 +4,7 @@
   "description": "Feria de Agosto 2025 en Antequera del 20 al 24 de agosto",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#8B1A1A",
+  "theme_color": "#282284",
   "background_color": "#ffffff",
   "orientation": "portrait-primary",
   "icons": [
