@@ -14,7 +14,7 @@
 body {
   font-family: 'Lato', sans-serif;
   line-height: 1.6;
-  background: var(--color-accent);
+  background: #fff;
   min-height: 100vh;
   color: #333;
 }
