@@ -5,49 +5,49 @@ description: Descubre todas las casetas de la Feria de Agosto 2025 en Antequera.
 
 # Casetas de la Feria 2025
 
-La Feria de Agosto de Antequera cuenta con casetas distribuidas en tres zonas principales de la ciudad, cada una con su ambiente característico y propuesta gastronómica única.
+Las casetas de la Feria de Agosto de Antequera se dividen en dos grandes grupos: **casetas de día** y **casetas de noche**, cada una con su propio ambiente y ubicación.
 
-## <i class="bi bi-building-fill"></i> Centro
+## Casetas de día
 
-Las casetas del centro histórico de Antequera ofrecen un ambiente tradicional en el corazón de la ciudad.
+### Ubicadas en dos zonas principales:
 
-**Ubicación:** Casco histórico de Antequera  
-**Ambiente:** Tradicional y familiar  
-**Horarios:** Consultar con cada caseta
+**Casetas del centro:**
+- Consuelo en la parroquia de San Pedro (C/ San Pedro)
+- Mayor Dolor en los antiguos Juzgados (C/ Infante don Fernando)
+- Caseta del Caballista en el Corazón de María
 
-*Contenido en preparación...*
-
----
-
-## <i class="bi bi-tree-fill"></i> Paseo Real
-
-El Paseo Real acoge casetas con un ambiente más tranquilo y familiar, ideal para disfrutar en familia.
-
-**Ubicación:** Paseo Real  
-**Ambiente:** Familiar y relajado  
-**Acceso:** Fácil aparcamiento
-
-*Contenido en preparación...*
-
----
-
-## <i class="bi bi-balloon-fill"></i> Recinto Ferial
-
-El Recinto Ferial es el corazón de la fiesta, donde se concentra la mayor actividad festiva.
-
-**Ubicación:** Recinto Ferial Municipal  
-**Ambiente:** Festivo y animado  
-**Atracciones:** Cercano a las atracciones de feria
-
-*Contenido en preparación...*
+**Casetas en el Paseo Real:**
+- La Airosa
+- Rescate
+- Pollinica
+- Santa Eufemia y La Salud
+- Rosario
+- Estudiantes
+- Consuelo
+- Amigos del Caballo
+- Balonmano Los Dólmenes
+- Dolores
+- Socorro
+- Mayor Dolor
 
 ---
 
-## <i class="bi bi-info-circle-fill"></i> Información General
+## Casetas de noche
 
-- **Horarios generales:** Consultar con cada caseta
-- **Transporte:** Servicio especial de autobuses durante la feria
-- **Parking:** Zonas habilitadas cerca de cada ubicación
-- **Accesibilidad:** Las tres zonas cuentan con accesos adaptados
+### Ubicadas en el Real de la Feria
 
-Para más información sobre casetas específicas, contacta con la organización de la feria.
+**Casetas andaluzas:**
+- Consuelo
+- A la Vega
+- Casa Curro
+- El fogón de Muñoz
+- Gastrobar Casa Lucía
+- Caseta de Arriba
+- Brasiliani Andalú
+- La Oficina
+- Merendero Garrido
+- Caseta Municipal
+
+**Casetas de Juventud:**
+- Malaje
+- Caseta Municipal de la Juventud “El flamenqueo”
