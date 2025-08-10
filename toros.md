@@ -7,32 +7,32 @@ description: Programa completo de los festejos taurinos de la Feria de Agosto 20
 
 ![Cartel taurino Real Feria de Agosto de Antequera 2025](https://storage.googleapis.com/qultura-ficheros/eventos/1b5fc8de-bff9-46f4-9b8a-019e26a53d97.jpg)
 
-# <i class="bi bi-person-arms-up"></i> Sábado 23 de agosto - Gran Corrida del Arte del Rejoneo
+# <i class="fa-solid fa-person-rays"></i> Sábado 23 de agosto - Gran Corrida del Arte del Rejoneo
 
-**<i class="bi bi-geo-alt-fill"></i> Plaza de Toros de Antequera**  
-**<i class="bi bi-clock"></i> Hora:** 19:30 h
+**<i class="fa-solid fa-location-dot"></i> Plaza de Toros de Antequera**
+**<i class="fa-solid fa-clock"></i> Hora:** 19:30 h
 
 ### Cartel
 - **Rejoneadores:** Andy Cartagena y Diego Ventura (mano a mano)
 - **Ganadería:** 6 toros de Prieto de la Cal
 
-### <i class="bi bi-ticket-perforated"></i> Entradas
+### <i class="fa-solid fa-ticket"></i> Entradas
 - **Desde:** 37€
 - **Información y venta:** [www.taurinadebuendia.com](https://www.taurinadebuendia.com)
 - Consultar precios y abonos disponibles
 
 ---
 
-# <i class="bi bi-masks-theater"></i> Domingo 24 de agosto - Tradicional Corrida de Toros Goyesca
+# <i class="fa-solid fa-masks-theater"></i> Domingo 24 de agosto - Tradicional Corrida de Toros Goyesca
 
-**<i class="bi bi-geo-alt-fill"></i> Plaza de Toros de Antequera**  
-**<i class="bi bi-clock"></i> Hora:** 19:30 h
+**<i class="fa-solid fa-location-dot"></i> Plaza de Toros de Antequera**
+**<i class="fa-solid fa-clock"></i> Hora:** 19:30 h
 
 ### Cartel
 - **Matadores:** Curro Díaz, Emilio de Justo y Marco Pérez
 - **Ganaderías:** 6 toros de Núñez del Cuvillo y 3 de Manuel Blázquez
 
-### <i class="bi bi-ticket-perforated"></i> Entradas
+### <i class="fa-solid fa-ticket"></i> Entradas
 - **Desde:** 37€
 - **Información y venta:** [www.taurinadebuenida.com](https://www.taurinadebuendia.com)
 - Consultar precios y abonos disponibles
