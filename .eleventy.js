@@ -1,4 +1,6 @@
 const pluginSitemap = require('@quasibit/eleventy-plugin-sitemap');
+const markdownIt = require('markdown-it');
+const markdownItAttrs = require('markdown-it-attrs');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('css'); // Copia tu CSS al output
@@ -9,13 +11,16 @@ module.exports = function (eleventyConfig) {
         eleventyConfig.addPassthroughCopy('robots.txt'); // Copia robots.txt
         eleventyConfig.addPassthroughCopy('sitemap.xml'); // Copia sitemap
 	eleventyConfig.ignores.add('CLAUDE.md'); // o el archivo que quieras ignorar
-	eleventyConfig.ignores.add('README.md'); // o el archivo que quieras ignorar
-	eleventyConfig.addGlobalData('layout', 'layout.njk');
-	eleventyConfig.addPlugin(pluginSitemap, {
-		sitemap: {
-			hostname: 'https://feria.antequera.click',
-		},
-	});
+        eleventyConfig.ignores.add('README.md'); // o el archivo que quieras ignorar
+        eleventyConfig.addGlobalData('layout', 'layout.njk');
+        eleventyConfig.addPlugin(pluginSitemap, {
+                sitemap: {
+                        hostname: 'https://feria.antequera.click',
+                },
+        });
+
+        let options = { html: true };
+        eleventyConfig.setLibrary('md', markdownIt(options).use(markdownItAttrs));
 
 	return {
 		dir: {

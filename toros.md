@@ -5,7 +5,7 @@ description: Programa completo de los festejos taurinos de la Feria de Agosto 20
 
 ## Festejos Taurinos 2025
 
-![Cartel taurino Real Feria de Agosto de Antequera 2025](https://storage.googleapis.com/qultura-ficheros/eventos/1b5fc8de-bff9-46f4-9b8a-019e26a53d97.jpg)
+![Cartel taurino Real Feria de Agosto de Antequera 2025](https://storage.googleapis.com/qultura-ficheros/eventos/1b5fc8de-bff9-46f4-9b8a-019e26a53d97.jpg){loading="lazy"}
 
 # <i class="fa-solid fa-person-rays"></i> Sábado 23 de agosto - Gran Corrida del Arte del Rejoneo
 
