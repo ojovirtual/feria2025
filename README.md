@@ -16,7 +16,7 @@ Este proyecto está configurado para desplegarse automáticamente en Railway.com
 ### Pasos para desplegar:
 
 1. **Conecta tu repositorio a Railway:**
-   - Ve a [railway.app](https://railway.app)
+    - Ve a [railway.app](https://railway.app){target="_blank"}
    - Conecta tu cuenta de GitHub
    - Selecciona este repositorio
 
