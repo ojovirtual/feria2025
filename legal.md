@@ -10,7 +10,7 @@ En cumplimiento con lo establecido en el artículo 10 de la Ley 34/2002, de Serv
 **Titular**: Isaac Morán  
 **DNI**: 74911606-P  
 **Correo electrónico de contacto**: [info@automia.es](mailto:info@automia.es)  
-**Dominio principal**: [antequera.click](https://antequera.click)
+**Dominio principal**: [antequera.click](https://antequera.click){target="_blank"}
 
 El sitio web `feria.antequera.click` tiene como finalidad ofrecer información cultural y práctica sobre la Real Feria de Agosto de Antequera.
 

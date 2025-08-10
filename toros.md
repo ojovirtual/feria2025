@@ -18,7 +18,7 @@ description: Programa completo de los festejos taurinos de la Feria de Agosto 20
 
 ### <i class="fa-solid fa-ticket"></i> Entradas
 - **Desde:** 37€
-- **Información y venta:** [www.taurinadebuendia.com](https://www.taurinadebuendia.com)
+ - **Información y venta:** [www.taurinadebuendia.com](https://www.taurinadebuendia.com){target="_blank"}
 - Consultar precios y abonos disponibles
 
 ---
@@ -34,7 +34,7 @@ description: Programa completo de los festejos taurinos de la Feria de Agosto 20
 
 ### <i class="fa-solid fa-ticket"></i> Entradas
 - **Desde:** 37€
-- **Información y venta:** [www.taurinadebuenida.com](https://www.taurinadebuendia.com)
+ - **Información y venta:** [www.taurinadebuenida.com](https://www.taurinadebuendia.com){target="_blank"}
 - Consultar precios y abonos disponibles
 
 ---
