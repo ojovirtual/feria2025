@@ -2,7 +2,7 @@
 title: Teléfonos de interés
 ---
 
-### <i class="bi bi-telephone-fill"></i> Teléfonos útiles durante la feria
+### <i class="fa-solid fa-phone"></i> Teléfonos útiles durante la feria
 
 **Emergencias generales**: [112](tel:112)  
 **Policía Nacional**: [091](tel:091)  

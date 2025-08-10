@@ -2,7 +2,7 @@
 title: Atracciones
 ---
 
-### <i class="bi bi-stars"></i> Atracciones Mecánicas
+### <i class="fa-solid fa-star"></i> Atracciones Mecánicas
 
 **Día de la Infancia**:  
 - **Miércoles 20 de agosto** y **lunes 25 de agosto**
