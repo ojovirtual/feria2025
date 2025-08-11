@@ -9,4 +9,4 @@ layout: layout.njk
 
 Del 20 al 24 de agosto de 2025
 
-### [<i class="fa fa-brand-openai"></i> Pregúntale a nuestro ChatGPT](https://chatgpt.com/g/g-689908be4b6881918ee2ae1e923a1f9b-real-feria-de-agosto-antequera-2025)
+### [<i class="fa-brands fa-openai"></i> Pregúntale a nuestro ChatGPT](https://chatgpt.com/g/g-689908be4b6881918ee2ae1e923a1f9b-real-feria-de-agosto-antequera-2025)
