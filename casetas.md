@@ -11,24 +11,24 @@ Las casetas de la Feria de Agosto de Antequera se dividen en dos grandes grupos:
 
 ### Ubicadas en dos zonas principales:
 
-**Casetas del centro:**
-- Consuelo en la parroquia de San Pedro (C/ San Pedro)
-- Mayor Dolor en los antiguos Juzgados (C/ Infante don Fernando)
-- Caseta del Caballista en el Corazón de María
+#### Casetas del centro:
+- **Cofradía del Consuelo** en la parroquia de San Pedro (C/ San Pedro)
+- **Cofradía del Mayor Dolor** en los antiguos Juzgados (C/ Alameda )
+- **Caseta del Caballista** en el Corazón de María
 
-**Casetas en el Paseo Real:**
+#### Casetas en el Paseo Real:
 - La Airosa
-- Rescate
-- Pollinica
+- Cofradía del Rescate
+- Cofradía de la Pollinica
 - Santa Eufemia y La Salud
-- Rosario
-- Estudiantes
-- Consuelo
+- Cofradía del Rosario
+- Cofradía Estudiantes
+- Cofradía del Consuelo
 - Amigos del Caballo
 - Balonmano Los Dólmenes
-- Dolores
-- Socorro
-- Mayor Dolor
+- Cofradía de los Dolores
+- Cofradía del Socorro
+- Cofradía del Mayor Dolor
 
 ---
 
@@ -36,8 +36,8 @@ Las casetas de la Feria de Agosto de Antequera se dividen en dos grandes grupos:
 
 ### Ubicadas en el Real de la Feria
 
-**Casetas andaluzas:**
-- Consuelo
+#### Casetas andaluzas:
+- Cofradía del Consuelo
 - A la Vega
 - Casa Curro
 - El fogón de Muñoz
@@ -48,6 +48,6 @@ Las casetas de la Feria de Agosto de Antequera se dividen en dos grandes grupos:
 - Merendero Garrido
 - Caseta Municipal
 
-**Casetas de Juventud:**
+#### Casetas de Juventud:
 - Malaje
 - Caseta Municipal de la Juventud “El flamenqueo”
