@@ -165,15 +165,26 @@ h6 { font-size: 1rem; }
   border: none;
   cursor: pointer;
   padding: 1rem 0;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.menu-toggle .icon {
+  display: flex;
   flex-direction: column;
   gap: 4px;
 }
 
-.menu-toggle span {
+.menu-toggle .icon span {
   width: 25px;
   height: 3px;
   background: var(--color-primary);
   transition: all 0.3s ease;
+}
+
+.menu-text {
+  color: var(--color-primary);
+  font-weight: 700;
 }
 
 .nav-menu {
@@ -484,15 +495,15 @@ h6 { font-size: 1rem; }
     padding-left: 2.5rem;
   }
   
-  .menu-toggle.active span:nth-child(1) {
+  .menu-toggle.active .icon span:nth-child(1) {
     transform: rotate(45deg) translate(5px, 5px);
   }
-  
-  .menu-toggle.active span:nth-child(2) {
+
+  .menu-toggle.active .icon span:nth-child(2) {
     opacity: 0;
   }
-  
-  .menu-toggle.active span:nth-child(3) {
+
+  .menu-toggle.active .icon span:nth-child(3) {
     transform: rotate(-45deg) translate(7px, -6px);
   }
   
