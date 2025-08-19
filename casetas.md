@@ -17,6 +17,7 @@ Las casetas de la Feria de Agosto de Antequera se dividen en dos grandes grupos:
 - **Caseta del Caballista** en el Corazón de María
 
 #### Casetas en el Paseo Real:
+🕙 **Horario de 12:30 horas a 20 horas, excepto el viernes 22 que será hasta las 21 horas** 
 - La Airosa
 - Cofradía del Rescate
 - Cofradía de la Pollinica
