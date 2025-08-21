@@ -36,6 +36,7 @@ Las casetas de la Feria de Agosto de Antequera se dividen en dos grandes grupos:
 ## Casetas de noche
 
 ### Ubicadas en el Real de la Feria
+🕙 **Horario de 20:30h a 06:00h, excepto el domingo que será de 20:30h a 03:00h**
 
 #### Casetas andaluzas:
 - Cofradía del Consuelo
