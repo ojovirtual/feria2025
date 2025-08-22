@@ -687,3 +687,27 @@ blockquote {
     margin-left: 1rem;
     font-size: 1rem;
 }
+
+/* Program buttons on homepage */
+.program-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.program-button {
+  background: var(--color-secondary);
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.program-button:hover {
+  background: var(--color-primary);
+  transform: translateY(-2px);
+}
