@@ -5,7 +5,7 @@ layout: layout.njk
 
 ## ¡Se acabó la feria!
 Gracias por visitarnos, la *Real Feria de Agosto 2025* ha finalizado.
-[Sigue nuestro canal de WhatsApp, Antequera con <i class="fa-solid fa-q"></i> de Qultura](https://whatsapp.com/channel/0029VadyMAMJuyAKnL83rd0i)
+[Consulta todas las actividades culturales y de ocio en Antequera](https://antequera.click)
 
 #### Programa de la Real Feria de Agosto de Antequera 2025
 
